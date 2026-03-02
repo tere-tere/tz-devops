@@ -1,0 +1,9 @@
+venv/
+.venv/
+.git/
+__pycache__/
+.idea/
+.vscode/
+*.pyc
+.env
+Effective_Mobile_ТЗ_DevOps_github.pdf
