@@ -6,4 +6,5 @@ __pycache__/
 .vscode/
 *.pyc
 .env
+.env.example
 Effective_Mobile_ТЗ_DevOps_github.pdf
